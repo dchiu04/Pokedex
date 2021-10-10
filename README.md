@@ -14,9 +14,9 @@ Student #: A00893016
 
 Set: 3V
 
-What it is: Shows the resulting pokemon(s), specific move(s), or abilitie(s), of the Pokemon world. It allows the user to parse for 3 different modes - pokemon, moves, or abilities - depending on their arguments. Parsed data will be shown in the console by default if output file is not specified. Each mode will show different data. Program uses pokeapi.co data and asyncio and json requests to parse the data.
+What it is: Shows the resulting pokemon(s), specific move(s), or abilitie(s), of the Pokemon world. It allows the user to parse for 3 different modes - pokemon, moves, or abilities - depending on their arguments. Parsed data will be shown in the console by default if output file is not specified. Each mode will show different data. Program uses https://pokeapi.co/ data and asyncio and json requests to parse the data.
 
-How to run: Using Pycharm or the command line, run the file pokedex.py with command line arguments in order of:
+How to run: Using Pycharm, run the file pokedex.py with command line arguments in order of:
 
   {"pokemon" | "ability" | "move"} {--inputfile "filename.txt" |--inputdata "name or id'} [--expanded] [--output "file"]
 
