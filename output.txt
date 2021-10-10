@@ -1,0 +1,2267 @@
+Name: Bulbasaur
+Id: 1
+Height: 7 decimeters
+Weight: 69 hectograms
+Stats:
+        Speed: 45
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/6/
+                        Name: Speed
+                        Id: 6
+                        Is Battle Only: False
+        Special-Defense: 65
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/5/
+                        Name: Special-Defense
+                        Id: 5
+                        Is Battle Only: False
+        Special-Attack: 65
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/4/
+                        Name: Special-Attack
+                        Id: 4
+                        Is Battle Only: False
+        Defense: 49
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/3/
+                        Name: Defense
+                        Id: 3
+                        Is Battle Only: False
+        Attack: 49
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/2/
+                        Name: Attack
+                        Id: 2
+                        Is Battle Only: False
+        Hp: 45
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/1/
+                        Name: Hp
+                        Id: 1
+                        Is Battle Only: False
+Type(s):
+    Type 1: Poison
+    Type 2: Grass
+Ability(s):
+        Ability 1: Chlorophyll
+                Expanded Info:
+                        (URL: https://pokeapi.co/api/v2/ability/34/)
+                        Name: Chlorophyll
+                        Id: 34
+                        Generation: generation-iii
+                        Effect: When this Pokémon has 1/3 or less of its HP remaining, its grass-type moves inflict 1. 5× as much regular damage. 
+                        Effect (short): Doubles Speed during strong sunlight.
+                                Pokemon 0: Bulbasaur
+                                Pokemon 1: Ivysaur
+                                Pokemon 2: Venusaur
+                                Pokemon 3: Oddish
+                                Pokemon 4: Gloom
+                                Pokemon 5: Vileplume
+                                Pokemon 6: Bellsprout
+                                Pokemon 7: Weepinbell
+                                Pokemon 8: Victreebel
+                                Pokemon 9: Exeggcute
+                                Pokemon 10: Exeggutor
+                                Pokemon 11: Tangela
+                                Pokemon 12: Bellossom
+                                Pokemon 13: Hoppip
+                                Pokemon 14: Skiploom
+                                Pokemon 15: Jumpluff
+                                Pokemon 16: Sunkern
+                                Pokemon 17: Sunflora
+                                Pokemon 18: Seedot
+                                Pokemon 19: Nuzleaf
+                                Pokemon 20: Shiftry
+                                Pokemon 21: Tropius
+                                Pokemon 22: Cherubi
+                                Pokemon 23: Tangrowth
+                                Pokemon 24: Leafeon
+                                Pokemon 25: Sewaddle
+                                Pokemon 26: Swadloon
+                                Pokemon 27: Leavanny
+                                Pokemon 28: Cottonee
+                                Pokemon 29: Whimsicott
+                                Pokemon 30: Petilil
+                                Pokemon 31: Lilligant
+                                Pokemon 32: Maractus
+                                Pokemon 33: Deerling
+                                Pokemon 34: Sawsbuck
+        Ability 2: Overgrow
+                Expanded Info:
+                        (URL: https://pokeapi.co/api/v2/ability/65/)
+                        Name: Overgrow
+                        Id: 65
+                        Generation: generation-iii
+                        Effect: When this Pokémon has 1/3 or less of its HP remaining, its grass-type moves inflict 1. 5× as much regular damage. 
+                        Effect (short): Strengthens grass moves to inflict 1.5× damage at 1/3 max HP or less.
+                                Pokemon 0: Bulbasaur
+                                Pokemon 1: Ivysaur
+                                Pokemon 2: Venusaur
+                                Pokemon 3: Chikorita
+                                Pokemon 4: Bayleef
+                                Pokemon 5: Meganium
+                                Pokemon 6: Treecko
+                                Pokemon 7: Grovyle
+                                Pokemon 8: Sceptile
+                                Pokemon 9: Turtwig
+                                Pokemon 10: Grotle
+                                Pokemon 11: Torterra
+                                Pokemon 12: Snivy
+                                Pokemon 13: Servine
+                                Pokemon 14: Serperior
+                                Pokemon 15: Pansage
+                                Pokemon 16: Simisage
+                                Pokemon 17: Chespin
+                                Pokemon 18: Quilladin
+                                Pokemon 19: Chesnaught
+                                Pokemon 20: Rowlet
+                                Pokemon 21: Dartrix
+                                Pokemon 22: Decidueye
+Moves(s):
+        Move 1: Razor-Wind (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/13/
+                        Name: Razor-Wind
+                        Id: 13
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 10
+                        Power: 80
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Requires a turn to charge before attacking.
+        Move 2: Swords-Dance (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/14/
+                        Name: Swords-Dance
+                        Id: 14
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises the user's Attack by two stages.
+        Move 3: Cut (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/15/
+                        Name: Cut
+                        Id: 15
+                        Generation: generation-i
+                        Accuracy: 95
+                        PP: 30
+                        Power: 50
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 4: Bind (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/20/
+                        Name: Bind
+                        Id: 20
+                        Generation: generation-i
+                        Accuracy: 85
+                        PP: 20
+                        Power: 15
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Prevents the target from fleeing and inflicts damage for 2-5 turns.
+        Move 5: Vine-Whip (Learned at level: 9)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/22/
+                        Name: Vine-Whip
+                        Id: 22
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 25
+                        Power: 45
+                        Type: grass
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 6: Headbutt (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/29/
+                        Name: Headbutt
+                        Id: 29
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 70
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Has a 30% chance to make the target flinch.
+        Move 7: Tackle (Learned at level: 1)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/33/
+                        Name: Tackle
+                        Id: 33
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 35
+                        Power: 40
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 8: Body-Slam (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/34/
+                        Name: Body-Slam
+                        Id: 34
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 85
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Has a 30% chance to paralyze the target.
+        Move 9: Take-Down (Learned at level: 15)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/36/
+                        Name: Take-Down
+                        Id: 36
+                        Generation: generation-i
+                        Accuracy: 85
+                        PP: 20
+                        Power: 90
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): User receives 1/4 the damage it inflicts in recoil.
+        Move 10: Double-Edge (Learned at level: 27)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/38/
+                        Name: Double-Edge
+                        Id: 38
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 120
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): User receives 1/3 the damage inflicted in recoil.
+        Move 11: Growl (Learned at level: 3)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/45/
+                        Name: Growl
+                        Id: 45
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 40
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's Attack by one stage.
+        Move 12: Strength (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/70/
+                        Name: Strength
+                        Id: 70
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 80
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 13: Mega-Drain (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/72/
+                        Name: Mega-Drain
+                        Id: 72
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 40
+                        Type: grass
+                        Damage Class: special
+                        Effect (short): Drains half the damage inflicted to heal the user.
+        Move 14: Leech-Seed (Learned at level: 7)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/73/
+                        Name: Leech-Seed
+                        Id: 73
+                        Generation: generation-i
+                        Accuracy: 90
+                        PP: 10
+                        Power: None
+                        Type: grass
+                        Damage Class: status
+                        Effect (short): Seeds the target, stealing HP from it every turn.
+        Move 15: Growth (Learned at level: 25)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/74/
+                        Name: Growth
+                        Id: 74
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises the user's Attack and Special Attack by one stage.
+        Move 16: Razor-Leaf (Learned at level: 19)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/75/
+                        Name: Razor-Leaf
+                        Id: 75
+                        Generation: generation-i
+                        Accuracy: 95
+                        PP: 25
+                        Power: 55
+                        Type: grass
+                        Damage Class: physical
+                        Effect (short): Has an increased chance for a critical hit.
+        Move 17: Solar-Beam (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/76/
+                        Name: Solar-Beam
+                        Id: 76
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 10
+                        Power: 120
+                        Type: grass
+                        Damage Class: special
+                        Effect (short): Requires a turn to charge before attacking.
+        Move 18: Poison-Powder (Learned at level: 13)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/77/
+                        Name: Poison-Powder
+                        Id: 77
+                        Generation: generation-i
+                        Accuracy: 75
+                        PP: 35
+                        Power: None
+                        Type: poison
+                        Damage Class: status
+                        Effect (short): Poisons the target.
+        Move 19: Sleep-Powder (Learned at level: 13)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/79/
+                        Name: Sleep-Powder
+                        Id: 79
+                        Generation: generation-i
+                        Accuracy: 75
+                        PP: 15
+                        Power: None
+                        Type: grass
+                        Damage Class: status
+                        Effect (short): Puts the target to sleep.
+        Move 20: Petal-Dance (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/80/
+                        Name: Petal-Dance
+                        Id: 80
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 10
+                        Power: 120
+                        Type: grass
+                        Damage Class: special
+                        Effect (short): Hits every turn for 2-3 turns, then confuses the user.
+        Move 21: String-Shot (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/81/
+                        Name: String-Shot
+                        Id: 81
+                        Generation: generation-i
+                        Accuracy: 95
+                        PP: 40
+                        Power: None
+                        Type: bug
+                        Damage Class: status
+                        Effect (short): Lowers the target's Speed by two stages.
+        Move 22: Toxic (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/92/
+                        Name: Toxic
+                        Id: 92
+                        Generation: generation-i
+                        Accuracy: 90
+                        PP: 10
+                        Power: None
+                        Type: poison
+                        Damage Class: status
+                        Effect (short): Badly poisons the target, inflicting more damage every turn.
+        Move 23: Rage (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/99/
+                        Name: Rage
+                        Id: 99
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 20
+                        Power: 20
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): If the user is hit after using this move, its Attack rises by one stage.
+        Move 24: Mimic (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/102/
+                        Name: Mimic
+                        Id: 102
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Copies the target's last used move.
+        Move 25: Double-Team (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/104/
+                        Name: Double-Team
+                        Id: 104
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 15
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises the user's evasion by one stage.
+        Move 26: Defense-Curl (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/111/
+                        Name: Defense-Curl
+                        Id: 111
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 40
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises user's Defense by one stage.
+        Move 27: Light-Screen (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/113/
+                        Name: Light-Screen
+                        Id: 113
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 30
+                        Power: None
+                        Type: psychic
+                        Damage Class: status
+                        Effect (short): Reduces damage from special attacks by 50% for five turns.
+        Move 28: Reflect (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/115/
+                        Name: Reflect
+                        Id: 115
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: psychic
+                        Damage Class: status
+                        Effect (short): Reduces damage from physical attacks by half.
+        Move 29: Bide (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/117/
+                        Name: Bide
+                        Id: 117
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): User waits for two turns, then hits back for twice the damage it took.
+        Move 30: Sludge (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/124/
+                        Name: Sludge
+                        Id: 124
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 20
+                        Power: 65
+                        Type: poison
+                        Damage Class: special
+                        Effect (short): Has a 30% chance to poison the target.
+        Move 31: Skull-Bash (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/130/
+                        Name: Skull-Bash
+                        Id: 130
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 10
+                        Power: 130
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Raises the user's Defense by one stage.  User charges for one turn before attacking.
+        Move 32: Amnesia (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/133/
+                        Name: Amnesia
+                        Id: 133
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: psychic
+                        Damage Class: status
+                        Effect (short): Raises the user's Special Defense by two stages.
+        Move 33: Flash (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/148/
+                        Name: Flash
+                        Id: 148
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's accuracy by one stage.
+        Move 34: Rest (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/156/
+                        Name: Rest
+                        Id: 156
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: psychic
+                        Damage Class: status
+                        Effect (short): User sleeps for two turns, completely healing itself.
+        Move 35: Substitute (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/164/
+                        Name: Substitute
+                        Id: 164
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Transfers 1/4 of the user's max HP into a doll, protecting the user from further damage or status changes until it breaks.
+        Move 36: Snore (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/173/
+                        Name: Snore
+                        Id: 173
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 15
+                        Power: 50
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Has a 30% chance to make the target flinch.  Only works if the user is sleeping.
+        Move 37: Curse (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/174/
+                        Name: Curse
+                        Id: 174
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: ghost
+                        Damage Class: status
+                        Effect (short): Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.
+        Move 38: Protect (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/182/
+                        Name: Protect
+                        Id: 182
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Prevents any moves from hitting the user this turn.
+        Move 39: Sludge-Bomb (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/188/
+                        Name: Sludge-Bomb
+                        Id: 188
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 10
+                        Power: 90
+                        Type: poison
+                        Damage Class: special
+                        Effect (short): Has a 30% chance to poison the target.
+        Move 40: Mud-Slap (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/189/
+                        Name: Mud-Slap
+                        Id: 189
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 10
+                        Power: 20
+                        Type: ground
+                        Damage Class: special
+                        Effect (short): Has a 100% chance to lower the target's accuracy by one stage.
+        Move 41: Giga-Drain (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/202/
+                        Name: Giga-Drain
+                        Id: 202
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 10
+                        Power: 75
+                        Type: grass
+                        Damage Class: special
+                        Effect (short): Drains half the damage inflicted to heal the user.
+        Move 42: Endure (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/203/
+                        Name: Endure
+                        Id: 203
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Prevents the user's HP from lowering below 1 this turn.
+        Move 43: Charm (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/204/
+                        Name: Charm
+                        Id: 204
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: fairy
+                        Damage Class: status
+                        Effect (short): Lowers the target's Attack by two stages.
+        Move 44: Swagger (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/207/
+                        Name: Swagger
+                        Id: 207
+                        Generation: generation-ii
+                        Accuracy: 85
+                        PP: 15
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises the target's Attack by two stages and confuses the target.
+        Move 45: Fury-Cutter (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/210/
+                        Name: Fury-Cutter
+                        Id: 210
+                        Generation: generation-ii
+                        Accuracy: 95
+                        PP: 20
+                        Power: 40
+                        Type: bug
+                        Damage Class: physical
+                        Effect (short): Power doubles every turn this move is used in succession after the first, maxing out after five turns.
+        Move 46: Attract (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/213/
+                        Name: Attract
+                        Id: 213
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 15
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.
+        Move 47: Sleep-Talk (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/214/
+                        Name: Sleep-Talk
+                        Id: 214
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Randomly uses one of the user's other three moves.  Only works if the user is sleeping.
+        Move 48: Return (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/216/
+                        Name: Return
+                        Id: 216
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Power increases with happiness, up to a maximum of 102.
+        Move 49: Frustration (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/218/
+                        Name: Frustration
+                        Id: 218
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Power increases as happiness decreases, up to a maximum of 102.
+        Move 50: Safeguard (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/219/
+                        Name: Safeguard
+                        Id: 219
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 25
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Protects the user's field from major status ailments and confusion for five turns.
+        Move 51: Sweet-Scent (Learned at level: 21)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/230/
+                        Name: Sweet-Scent
+                        Id: 230
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's evasion by one stage.
+        Move 52: Synthesis (Learned at level: 33)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/235/
+                        Name: Synthesis
+                        Id: 235
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 5
+                        Power: None
+                        Type: grass
+                        Damage Class: status
+                        Effect (short): Heals the user by half its max HP.  Affected by weather.
+        Move 53: Hidden-Power (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/237/
+                        Name: Hidden-Power
+                        Id: 237
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 15
+                        Power: 60
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Power and type depend upon user's IVs.  Power can range from 30 to 70.
+        Move 54: Sunny-Day (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/241/
+                        Name: Sunny-Day
+                        Id: 241
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 5
+                        Power: None
+                        Type: fire
+                        Damage Class: status
+                        Effect (short): Changes the weather to sunny for five turns.
+        Move 55: Rock-Smash (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/249/
+                        Name: Rock-Smash
+                        Id: 249
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 15
+                        Power: 40
+                        Type: fighting
+                        Damage Class: physical
+                        Effect (short): Has a 50% chance to lower the target's Defense by one stage.
+        Move 56: Facade (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/263/
+                        Name: Facade
+                        Id: 263
+                        Generation: generation-iii
+                        Accuracy: 100
+                        PP: 20
+                        Power: 70
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Power doubles if user is burned, paralyzed, or poisoned.
+        Move 57: Nature-Power (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/267/
+                        Name: Nature-Power
+                        Id: 267
+                        Generation: generation-iii
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Uses a move which depends upon the terrain.
+        Move 58: Ingrain (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/275/
+                        Name: Ingrain
+                        Id: 275
+                        Generation: generation-iii
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: grass
+                        Damage Class: status
+                        Effect (short): Prevents the user from leaving battle.  User regains 1/16 of its max HP every turn.
+        Move 59: Knock-Off (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/282/
+                        Name: Knock-Off
+                        Id: 282
+                        Generation: generation-iii
+                        Accuracy: 100
+                        PP: 20
+                        Power: 65
+                        Type: dark
+                        Damage Class: physical
+                        Effect (short): Target drops its held item.
+        Move 60: Secret-Power (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/290/
+                        Name: Secret-Power
+                        Id: 290
+                        Generation: generation-iii
+                        Accuracy: 100
+                        PP: 20
+                        Power: 70
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Has a 30% chance to inflict a status effect which depends upon the terrain.
+        Move 61: Grass-Whistle (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/320/
+                        Name: Grass-Whistle
+                        Id: 320
+                        Generation: generation-iii
+                        Accuracy: 55
+                        PP: 15
+                        Power: None
+                        Type: grass
+                        Damage Class: status
+                        Effect (short): Puts the target to sleep.
+        Move 62: Bullet-Seed (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/331/
+                        Name: Bullet-Seed
+                        Id: 331
+                        Generation: generation-iii
+                        Accuracy: 100
+                        PP: 30
+                        Power: 25
+                        Type: grass
+                        Damage Class: physical
+                        Effect (short): Hits 2-5 times in one turn.
+        Move 63: Magical-Leaf (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/345/
+                        Name: Magical-Leaf
+                        Id: 345
+                        Generation: generation-iii
+                        Accuracy: None
+                        PP: 20
+                        Power: 60
+                        Type: grass
+                        Damage Class: special
+                        Effect (short): Never misses.
+        Move 64: Natural-Gift (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/363/
+                        Name: Natural-Gift
+                        Id: 363
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 15
+                        Power: None
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Power and type depend on the held berry.
+        Move 65: Worry-Seed (Learned at level: 31)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/388/
+                        Name: Worry-Seed
+                        Id: 388
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 10
+                        Power: None
+                        Type: grass
+                        Damage Class: status
+                        Effect (short): Changes the target's ability to Insomnia.
+        Move 66: Seed-Bomb (Learned at level: 37)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/402/
+                        Name: Seed-Bomb
+                        Id: 402
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 15
+                        Power: 80
+                        Type: grass
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 67: Energy-Ball (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/412/
+                        Name: Energy-Ball
+                        Id: 412
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 10
+                        Power: 90
+                        Type: grass
+                        Damage Class: special
+                        Effect (short): Has a 10% chance to lower the target's Special Defense by one stage.
+        Move 68: Leaf-Storm (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/437/
+                        Name: Leaf-Storm
+                        Id: 437
+                        Generation: generation-iv
+                        Accuracy: 90
+                        PP: 5
+                        Power: 130
+                        Type: grass
+                        Damage Class: special
+                        Effect (short): Lowers the user's Special Attack by two stages after inflicting damage.
+        Move 69: Power-Whip (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/438/
+                        Name: Power-Whip
+                        Id: 438
+                        Generation: generation-iv
+                        Accuracy: 85
+                        PP: 10
+                        Power: 120
+                        Type: grass
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 70: Captivate (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/445/
+                        Name: Captivate
+                        Id: 445
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's Special Attack by two stages if it's the opposite gender.
+        Move 71: Grass-Knot (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/447/
+                        Name: Grass-Knot
+                        Id: 447
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: grass
+                        Damage Class: special
+                        Effect (short): Inflicts more damage to heavier targets, with a maximum of 120 power.
+        Move 72: Venoshock (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/474/
+                        Name: Venoshock
+                        Id: 474
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 10
+                        Power: 65
+                        Type: poison
+                        Damage Class: special
+                        Effect (short): Inflicts double damage if the target is Poisoned.
+        Move 73: Round (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/496/
+                        Name: Round
+                        Id: 496
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 15
+                        Power: 60
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Has double power if it's used more than once per turn.
+        Move 74: Echoed-Voice (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/497/
+                        Name: Echoed-Voice
+                        Id: 497
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 15
+                        Power: 40
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200.
+        Move 75: Grass-Pledge (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/520/
+                        Name: Grass-Pledge
+                        Id: 520
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 10
+                        Power: 80
+                        Type: grass
+                        Damage Class: special
+                        Effect (short): With Fire Pledge, damages opposing Pokémon for 1/8 their max HP every turn for four turns.
+        Move 76: Work-Up (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/526/
+                        Name: Work-Up
+                        Id: 526
+                        Generation: generation-v
+                        Accuracy: None
+                        PP: 30
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises the user's Attack and Special Attack by one stage each.
+        Move 77: Grassy-Terrain (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/580/
+                        Name: Grassy-Terrain
+                        Id: 580
+                        Generation: generation-vi
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: grass
+                        Damage Class: status
+                        Effect (short): For five turns, heals all Pokémon on the ground for 1/16 max HP each turn and strengthens their grass moves to 1.5× their power.
+        Move 78: Confide (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/590/
+                        Name: Confide
+                        Id: 590
+                        Generation: generation-vi
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's Special Attack by one stage.
+
+Name: Charmander
+Id: 4
+Height: 6 decimeters
+Weight: 85 hectograms
+Stats:
+        Speed: 65
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/6/
+                        Name: Speed
+                        Id: 6
+                        Is Battle Only: False
+        Special-Defense: 50
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/5/
+                        Name: Special-Defense
+                        Id: 5
+                        Is Battle Only: False
+        Special-Attack: 60
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/4/
+                        Name: Special-Attack
+                        Id: 4
+                        Is Battle Only: False
+        Defense: 43
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/3/
+                        Name: Defense
+                        Id: 3
+                        Is Battle Only: False
+        Attack: 52
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/2/
+                        Name: Attack
+                        Id: 2
+                        Is Battle Only: False
+        Hp: 39
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/stat/1/
+                        Name: Hp
+                        Id: 1
+                        Is Battle Only: False
+Type(s):
+    Type 1: Fire
+Ability(s):
+        Ability 1: Solar-Power
+                Expanded Info:
+                        (URL: https://pokeapi.co/api/v2/ability/94/)
+                        Name: Solar-Power
+                        Id: 94
+                        Generation: generation-iv
+                        Effect: When this Pokémon has 1/3 or less of its HP remaining, its fire-type moves inflict 1. 5× as much regular damage. 
+                        Effect (short): Increases Special Attack to 1.5× but costs 1/8 max HP after each turn during strong sunlight.
+                                Pokemon 0: Charmander
+                                Pokemon 1: Charmeleon
+                                Pokemon 2: Charizard
+                                Pokemon 3: Sunkern
+                                Pokemon 4: Sunflora
+                                Pokemon 5: Tropius
+                                Pokemon 6: Helioptile
+                                Pokemon 7: Heliolisk
+                                Pokemon 8: Houndoom-Mega
+        Ability 2: Blaze
+                Expanded Info:
+                        (URL: https://pokeapi.co/api/v2/ability/66/)
+                        Name: Blaze
+                        Id: 66
+                        Generation: generation-iii
+                        Effect: When this Pokémon has 1/3 or less of its HP remaining, its fire-type moves inflict 1. 5× as much regular damage. 
+                        Effect (short): Strengthens fire moves to inflict 1.5× damage at 1/3 max HP or less.
+                                Pokemon 0: Charmander
+                                Pokemon 1: Charmeleon
+                                Pokemon 2: Charizard
+                                Pokemon 3: Cyndaquil
+                                Pokemon 4: Quilava
+                                Pokemon 5: Typhlosion
+                                Pokemon 6: Torchic
+                                Pokemon 7: Combusken
+                                Pokemon 8: Blaziken
+                                Pokemon 9: Chimchar
+                                Pokemon 10: Monferno
+                                Pokemon 11: Infernape
+                                Pokemon 12: Tepig
+                                Pokemon 13: Pignite
+                                Pokemon 14: Emboar
+                                Pokemon 15: Pansear
+                                Pokemon 16: Simisear
+                                Pokemon 17: Fennekin
+                                Pokemon 18: Braixen
+                                Pokemon 19: Delphox
+                                Pokemon 20: Litten
+                                Pokemon 21: Torracat
+                                Pokemon 22: Incineroar
+Moves(s):
+        Move 1: Mega-Punch (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/5/
+                        Name: Mega-Punch
+                        Id: 5
+                        Generation: generation-i
+                        Accuracy: 85
+                        PP: 20
+                        Power: 80
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 2: Fire-Punch (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/7/
+                        Name: Fire-Punch
+                        Id: 7
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 75
+                        Type: fire
+                        Damage Class: physical
+                        Effect (short): Has a 10% chance to burn the target.
+        Move 3: Thunder-Punch (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/9/
+                        Name: Thunder-Punch
+                        Id: 9
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 75
+                        Type: electric
+                        Damage Class: physical
+                        Effect (short): Has a 10% chance to paralyze the target.
+        Move 4: Scratch (Learned at level: 1)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/10/
+                        Name: Scratch
+                        Id: 10
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 35
+                        Power: 40
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 5: Swords-Dance (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/14/
+                        Name: Swords-Dance
+                        Id: 14
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises the user's Attack by two stages.
+        Move 6: Cut (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/15/
+                        Name: Cut
+                        Id: 15
+                        Generation: generation-i
+                        Accuracy: 95
+                        PP: 30
+                        Power: 50
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 7: Mega-Kick (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/25/
+                        Name: Mega-Kick
+                        Id: 25
+                        Generation: generation-i
+                        Accuracy: 75
+                        PP: 5
+                        Power: 120
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 8: Headbutt (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/29/
+                        Name: Headbutt
+                        Id: 29
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 70
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Has a 30% chance to make the target flinch.
+        Move 9: Body-Slam (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/34/
+                        Name: Body-Slam
+                        Id: 34
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 85
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Has a 30% chance to paralyze the target.
+        Move 10: Take-Down (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/36/
+                        Name: Take-Down
+                        Id: 36
+                        Generation: generation-i
+                        Accuracy: 85
+                        PP: 20
+                        Power: 90
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): User receives 1/4 the damage it inflicts in recoil.
+        Move 11: Double-Edge (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/38/
+                        Name: Double-Edge
+                        Id: 38
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 120
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): User receives 1/3 the damage inflicted in recoil.
+        Move 12: Leer (Learned at level: 15)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/43/
+                        Name: Leer
+                        Id: 43
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 30
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's Defense by one stage.
+        Move 13: Bite (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/44/
+                        Name: Bite
+                        Id: 44
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 25
+                        Power: 60
+                        Type: dark
+                        Damage Class: physical
+                        Effect (short): Has a 30% chance to make the target flinch.
+        Move 14: Growl (Learned at level: 1)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/45/
+                        Name: Growl
+                        Id: 45
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 40
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's Attack by one stage.
+        Move 15: Ember (Learned at level: 9)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/52/
+                        Name: Ember
+                        Id: 52
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 25
+                        Power: 40
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): Has a 10% chance to burn the target.
+        Move 16: Flamethrower (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/53/
+                        Name: Flamethrower
+                        Id: 53
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 90
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): Has a 10% chance to burn the target.
+        Move 17: Submission (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/66/
+                        Name: Submission
+                        Id: 66
+                        Generation: generation-i
+                        Accuracy: 80
+                        PP: 20
+                        Power: 80
+                        Type: fighting
+                        Damage Class: physical
+                        Effect (short): User receives 1/4 the damage it inflicts in recoil.
+        Move 18: Counter (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/68/
+                        Name: Counter
+                        Id: 68
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: fighting
+                        Damage Class: physical
+                        Effect (short): Inflicts twice the damage the user received from the last physical hit it took.
+        Move 19: Seismic-Toss (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/69/
+                        Name: Seismic-Toss
+                        Id: 69
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: fighting
+                        Damage Class: physical
+                        Effect (short): Inflicts damage equal to the user's level.
+        Move 20: Strength (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/70/
+                        Name: Strength
+                        Id: 70
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 15
+                        Power: 80
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 21: Dragon-Rage (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/82/
+                        Name: Dragon-Rage
+                        Id: 82
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 10
+                        Power: None
+                        Type: dragon
+                        Damage Class: special
+                        Effect (short): Inflicts 40 points of damage.
+        Move 22: Fire-Spin (Learned at level: 46)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/83/
+                        Name: Fire-Spin
+                        Id: 83
+                        Generation: generation-i
+                        Accuracy: 85
+                        PP: 15
+                        Power: 35
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): Prevents the target from fleeing and inflicts damage for 2-5 turns.
+        Move 23: Dig (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/91/
+                        Name: Dig
+                        Id: 91
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 10
+                        Power: 80
+                        Type: ground
+                        Damage Class: physical
+                        Effect (short): User digs underground, dodging all attacks, and hits next turn.
+        Move 24: Toxic (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/92/
+                        Name: Toxic
+                        Id: 92
+                        Generation: generation-i
+                        Accuracy: 90
+                        PP: 10
+                        Power: None
+                        Type: poison
+                        Damage Class: status
+                        Effect (short): Badly poisons the target, inflicting more damage every turn.
+        Move 25: Rage (Learned at level: 22)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/99/
+                        Name: Rage
+                        Id: 99
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 20
+                        Power: 20
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): If the user is hit after using this move, its Attack rises by one stage.
+        Move 26: Mimic (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/102/
+                        Name: Mimic
+                        Id: 102
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Copies the target's last used move.
+        Move 27: Double-Team (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/104/
+                        Name: Double-Team
+                        Id: 104
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 15
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises the user's evasion by one stage.
+        Move 28: Smokescreen (Learned at level: 13)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/108/
+                        Name: Smokescreen
+                        Id: 108
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's accuracy by one stage.
+        Move 29: Defense-Curl (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/111/
+                        Name: Defense-Curl
+                        Id: 111
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 40
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises user's Defense by one stage.
+        Move 30: Reflect (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/115/
+                        Name: Reflect
+                        Id: 115
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: psychic
+                        Damage Class: status
+                        Effect (short): Reduces damage from physical attacks by half.
+        Move 31: Bide (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/117/
+                        Name: Bide
+                        Id: 117
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): User waits for two turns, then hits back for twice the damage it took.
+        Move 32: Fire-Blast (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/126/
+                        Name: Fire-Blast
+                        Id: 126
+                        Generation: generation-i
+                        Accuracy: 85
+                        PP: 5
+                        Power: 110
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): Has a 10% chance to burn the target.
+        Move 33: Swift (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/129/
+                        Name: Swift
+                        Id: 129
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 20
+                        Power: 60
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Never misses.
+        Move 34: Skull-Bash (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/130/
+                        Name: Skull-Bash
+                        Id: 130
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 10
+                        Power: 130
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Raises the user's Defense by one stage.  User charges for one turn before attacking.
+        Move 35: Rest (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/156/
+                        Name: Rest
+                        Id: 156
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: psychic
+                        Damage Class: status
+                        Effect (short): User sleeps for two turns, completely healing itself.
+        Move 36: Rock-Slide (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/157/
+                        Name: Rock-Slide
+                        Id: 157
+                        Generation: generation-i
+                        Accuracy: 90
+                        PP: 10
+                        Power: 75
+                        Type: rock
+                        Damage Class: physical
+                        Effect (short): Has a 30% chance to make the target flinch.
+        Move 37: Slash (Learned at level: 30)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/163/
+                        Name: Slash
+                        Id: 163
+                        Generation: generation-i
+                        Accuracy: 100
+                        PP: 20
+                        Power: 70
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Has an increased chance for a critical hit.
+        Move 38: Substitute (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/164/
+                        Name: Substitute
+                        Id: 164
+                        Generation: generation-i
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Transfers 1/4 of the user's max HP into a doll, protecting the user from further damage or status changes until it breaks.
+        Move 39: Snore (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/173/
+                        Name: Snore
+                        Id: 173
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 15
+                        Power: 50
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Has a 30% chance to make the target flinch.  Only works if the user is sleeping.
+        Move 40: Curse (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/174/
+                        Name: Curse
+                        Id: 174
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: ghost
+                        Damage Class: status
+                        Effect (short): Ghosts pay half their max HP to hurt the target every turn.  Others decrease Speed but raise Attack and Defense.
+        Move 41: Protect (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/182/
+                        Name: Protect
+                        Id: 182
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Prevents any moves from hitting the user this turn.
+        Move 42: Scary-Face (Learned at level: 19)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/184/
+                        Name: Scary-Face
+                        Id: 184
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's Speed by two stages.
+        Move 43: Belly-Drum (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/187/
+                        Name: Belly-Drum
+                        Id: 187
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): User pays half its max HP to max out its Attack.
+        Move 44: Mud-Slap (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/189/
+                        Name: Mud-Slap
+                        Id: 189
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 10
+                        Power: 20
+                        Type: ground
+                        Damage Class: special
+                        Effect (short): Has a 100% chance to lower the target's accuracy by one stage.
+        Move 45: Outrage (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/200/
+                        Name: Outrage
+                        Id: 200
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 10
+                        Power: 120
+                        Type: dragon
+                        Damage Class: physical
+                        Effect (short): Hits every turn for 2-3 turns, then confuses the user.
+        Move 46: Endure (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/203/
+                        Name: Endure
+                        Id: 203
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Prevents the user's HP from lowering below 1 this turn.
+        Move 47: Swagger (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/207/
+                        Name: Swagger
+                        Id: 207
+                        Generation: generation-ii
+                        Accuracy: 85
+                        PP: 15
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises the target's Attack by two stages and confuses the target.
+        Move 48: Fury-Cutter (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/210/
+                        Name: Fury-Cutter
+                        Id: 210
+                        Generation: generation-ii
+                        Accuracy: 95
+                        PP: 20
+                        Power: 40
+                        Type: bug
+                        Damage Class: physical
+                        Effect (short): Power doubles every turn this move is used in succession after the first, maxing out after five turns.
+        Move 49: Attract (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/213/
+                        Name: Attract
+                        Id: 213
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 15
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Target falls in love if it has the opposite gender, and has a 50% chance to refuse attacking the user.
+        Move 50: Sleep-Talk (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/214/
+                        Name: Sleep-Talk
+                        Id: 214
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 10
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Randomly uses one of the user's other three moves.  Only works if the user is sleeping.
+        Move 51: Return (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/216/
+                        Name: Return
+                        Id: 216
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Power increases with happiness, up to a maximum of 102.
+        Move 52: Frustration (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/218/
+                        Name: Frustration
+                        Id: 218
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Power increases as happiness decreases, up to a maximum of 102.
+        Move 53: Dynamic-Punch (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/223/
+                        Name: Dynamic-Punch
+                        Id: 223
+                        Generation: generation-ii
+                        Accuracy: 50
+                        PP: 5
+                        Power: 100
+                        Type: fighting
+                        Damage Class: physical
+                        Effect (short): Has a 100% chance to confuse the target.
+        Move 54: Dragon-Breath (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/225/
+                        Name: Dragon-Breath
+                        Id: 225
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 20
+                        Power: 60
+                        Type: dragon
+                        Damage Class: special
+                        Effect (short): Has a 30% chance to paralyze the target.
+        Move 55: Iron-Tail (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/231/
+                        Name: Iron-Tail
+                        Id: 231
+                        Generation: generation-ii
+                        Accuracy: 75
+                        PP: 15
+                        Power: 100
+                        Type: steel
+                        Damage Class: physical
+                        Effect (short): Has a 30% chance to lower the target's Defense by one stage.
+        Move 56: Metal-Claw (Learned at level: 13)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/232/
+                        Name: Metal-Claw
+                        Id: 232
+                        Generation: generation-ii
+                        Accuracy: 95
+                        PP: 35
+                        Power: 50
+                        Type: steel
+                        Damage Class: physical
+                        Effect (short): Has a 10% chance to raise the user's Attack by one stage.
+        Move 57: Hidden-Power (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/237/
+                        Name: Hidden-Power
+                        Id: 237
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 15
+                        Power: 60
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Power and type depend upon user's IVs.  Power can range from 30 to 70.
+        Move 58: Sunny-Day (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/241/
+                        Name: Sunny-Day
+                        Id: 241
+                        Generation: generation-ii
+                        Accuracy: None
+                        PP: 5
+                        Power: None
+                        Type: fire
+                        Damage Class: status
+                        Effect (short): Changes the weather to sunny for five turns.
+        Move 59: Crunch (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/242/
+                        Name: Crunch
+                        Id: 242
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 15
+                        Power: 80
+                        Type: dark
+                        Damage Class: physical
+                        Effect (short): Has a 20% chance to lower the target's Defense by one stage.
+        Move 60: Ancient-Power (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/246/
+                        Name: Ancient-Power
+                        Id: 246
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 5
+                        Power: 60
+                        Type: rock
+                        Damage Class: special
+                        Effect (short): Has a 10% chance to raise all of the user's stats by one stage.
+        Move 61: Rock-Smash (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/249/
+                        Name: Rock-Smash
+                        Id: 249
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 15
+                        Power: 40
+                        Type: fighting
+                        Damage Class: physical
+                        Effect (short): Has a 50% chance to lower the target's Defense by one stage.
+        Move 62: Beat-Up (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/251/
+                        Name: Beat-Up
+                        Id: 251
+                        Generation: generation-ii
+                        Accuracy: 100
+                        PP: 10
+                        Power: None
+                        Type: dark
+                        Damage Class: physical
+                        Effect (short): Hits once for every conscious Pokémon the trainer has.
+        Move 63: Heat-Wave (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/257/
+                        Name: Heat-Wave
+                        Id: 257
+                        Generation: generation-iii
+                        Accuracy: 90
+                        PP: 10
+                        Power: 95
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): Has a 10% chance to burn the target.
+        Move 64: Will-O-Wisp (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/261/
+                        Name: Will-O-Wisp
+                        Id: 261
+                        Generation: generation-iii
+                        Accuracy: 85
+                        PP: 15
+                        Power: None
+                        Type: fire
+                        Damage Class: status
+                        Effect (short): Burns the target.
+        Move 65: Facade (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/263/
+                        Name: Facade
+                        Id: 263
+                        Generation: generation-iii
+                        Accuracy: 100
+                        PP: 20
+                        Power: 70
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Power doubles if user is burned, paralyzed, or poisoned.
+        Move 66: Focus-Punch (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/264/
+                        Name: Focus-Punch
+                        Id: 264
+                        Generation: generation-iii
+                        Accuracy: 100
+                        PP: 20
+                        Power: 150
+                        Type: fighting
+                        Damage Class: physical
+                        Effect (short): If the user takes damage before attacking, the attack is canceled.
+        Move 67: Brick-Break (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/280/
+                        Name: Brick-Break
+                        Id: 280
+                        Generation: generation-iii
+                        Accuracy: 100
+                        PP: 15
+                        Power: 75
+                        Type: fighting
+                        Damage Class: physical
+                        Effect (short): Destroys Reflect and Light Screen.
+        Move 68: Secret-Power (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/290/
+                        Name: Secret-Power
+                        Id: 290
+                        Generation: generation-iii
+                        Accuracy: 100
+                        PP: 20
+                        Power: 70
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Has a 30% chance to inflict a status effect which depends upon the terrain.
+        Move 69: Air-Cutter (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/314/
+                        Name: Air-Cutter
+                        Id: 314
+                        Generation: generation-iii
+                        Accuracy: 95
+                        PP: 25
+                        Power: 60
+                        Type: flying
+                        Damage Class: special
+                        Effect (short): Has an increased chance for a critical hit.
+        Move 70: Overheat (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/315/
+                        Name: Overheat
+                        Id: 315
+                        Generation: generation-iii
+                        Accuracy: 90
+                        PP: 5
+                        Power: 130
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): Lowers the user's Special Attack by two stages after inflicting damage.
+        Move 71: Rock-Tomb (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/317/
+                        Name: Rock-Tomb
+                        Id: 317
+                        Generation: generation-iii
+                        Accuracy: 95
+                        PP: 15
+                        Power: 60
+                        Type: rock
+                        Damage Class: physical
+                        Effect (short): Has a 100% chance to lower the target's Speed by one stage.
+        Move 72: Aerial-Ace (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/332/
+                        Name: Aerial-Ace
+                        Id: 332
+                        Generation: generation-iii
+                        Accuracy: None
+                        PP: 20
+                        Power: 60
+                        Type: flying
+                        Damage Class: physical
+                        Effect (short): Never misses.
+        Move 73: Dragon-Claw (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/337/
+                        Name: Dragon-Claw
+                        Id: 337
+                        Generation: generation-iii
+                        Accuracy: 100
+                        PP: 15
+                        Power: 80
+                        Type: dragon
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 74: Dragon-Dance (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/349/
+                        Name: Dragon-Dance
+                        Id: 349
+                        Generation: generation-iii
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: dragon
+                        Damage Class: status
+                        Effect (short): Raises the user's Attack and Speed by one stage.
+        Move 75: Natural-Gift (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/363/
+                        Name: Natural-Gift
+                        Id: 363
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 15
+                        Power: None
+                        Type: normal
+                        Damage Class: physical
+                        Effect (short): Power and type depend on the held berry.
+        Move 76: Fling (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/374/
+                        Name: Fling
+                        Id: 374
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 10
+                        Power: None
+                        Type: dark
+                        Damage Class: physical
+                        Effect (short): Throws held item at the target; power depends on the item.
+        Move 77: Flare-Blitz (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/394/
+                        Name: Flare-Blitz
+                        Id: 394
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 15
+                        Power: 120
+                        Type: fire
+                        Damage Class: physical
+                        Effect (short): User takes 1/3 the damage inflicted in recoil.  Has a 10% chance to burn the target.
+        Move 78: Dragon-Pulse (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/406/
+                        Name: Dragon-Pulse
+                        Id: 406
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 10
+                        Power: 85
+                        Type: dragon
+                        Damage Class: special
+                        Effect (short): Inflicts regular damage with no additional effect.
+        Move 79: Dragon-Rush (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/407/
+                        Name: Dragon-Rush
+                        Id: 407
+                        Generation: generation-iv
+                        Accuracy: 75
+                        PP: 10
+                        Power: 100
+                        Type: dragon
+                        Damage Class: physical
+                        Effect (short): Has a 20% chance to make the target flinch.
+        Move 80: Shadow-Claw (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/421/
+                        Name: Shadow-Claw
+                        Id: 421
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 15
+                        Power: 70
+                        Type: ghost
+                        Damage Class: physical
+                        Effect (short): Has an increased chance for a critical hit.
+        Move 81: Fire-Fang (Learned at level: 25)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/424/
+                        Name: Fire-Fang
+                        Id: 424
+                        Generation: generation-iv
+                        Accuracy: 95
+                        PP: 15
+                        Power: 65
+                        Type: fire
+                        Damage Class: physical
+                        Effect (short): Has a 10% chance to burn the target and a 10% chance to make the target flinch.
+        Move 82: Captivate (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/445/
+                        Name: Captivate
+                        Id: 445
+                        Generation: generation-iv
+                        Accuracy: 100
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's Special Attack by two stages if it's the opposite gender.
+        Move 83: Hone-Claws (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/468/
+                        Name: Hone-Claws
+                        Id: 468
+                        Generation: generation-v
+                        Accuracy: None
+                        PP: 15
+                        Power: None
+                        Type: dark
+                        Damage Class: status
+                        Effect (short): Raises the user's Attack and accuracy by one stage.
+        Move 84: Flame-Burst (Learned at level: 28)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/481/
+                        Name: Flame-Burst
+                        Id: 481
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 15
+                        Power: 70
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): Deals splash damage to Pokémon next to the target.
+        Move 85: Flame-Charge (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/488/
+                        Name: Flame-Charge
+                        Id: 488
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 20
+                        Power: 50
+                        Type: fire
+                        Damage Class: physical
+                        Effect (short): Inflicts regular damage.  Raises the user's Speed by one stage.
+        Move 86: Round (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/496/
+                        Name: Round
+                        Id: 496
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 15
+                        Power: 60
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Has double power if it's used more than once per turn.
+        Move 87: Echoed-Voice (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/497/
+                        Name: Echoed-Voice
+                        Id: 497
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 15
+                        Power: 40
+                        Type: normal
+                        Damage Class: special
+                        Effect (short): Power increases by 100% for each consecutive use by any friendly Pokémon, to a maximum of 200.
+        Move 88: Incinerate (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/510/
+                        Name: Incinerate
+                        Id: 510
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 15
+                        Power: 60
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): Destroys the target's held berry.
+        Move 89: Inferno (Learned at level: 46)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/517/
+                        Name: Inferno
+                        Id: 517
+                        Generation: generation-v
+                        Accuracy: 50
+                        PP: 5
+                        Power: 100
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): Has a 100% chance to burn the target.
+        Move 90: Fire-Pledge (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/519/
+                        Name: Fire-Pledge
+                        Id: 519
+                        Generation: generation-v
+                        Accuracy: 100
+                        PP: 10
+                        Power: 80
+                        Type: fire
+                        Damage Class: special
+                        Effect (short): With Water Pledge, doubles the effect chance of friendly Pokémon's moves for four turns.
+        Move 91: Work-Up (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/526/
+                        Name: Work-Up
+                        Id: 526
+                        Generation: generation-v
+                        Accuracy: None
+                        PP: 30
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Raises the user's Attack and Special Attack by one stage each.
+        Move 92: Confide (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/590/
+                        Name: Confide
+                        Id: 590
+                        Generation: generation-vi
+                        Accuracy: None
+                        PP: 20
+                        Power: None
+                        Type: normal
+                        Damage Class: status
+                        Effect (short): Lowers the target's Special Attack by one stage.
+        Move 93: Power-Up-Punch (Learned at level: 0)
+                Expanded Info:
+                        URL: https://pokeapi.co/api/v2/move/612/
+                        Name: Power-Up-Punch
+                        Id: 612
+                        Generation: generation-vi
+                        Accuracy: 100
+                        PP: 20
+                        Power: 40
+                        Type: fighting
+                        Damage Class: physical
+                        Effect (short): Raises the user's Attack by one stage after inflicting damage.
+
